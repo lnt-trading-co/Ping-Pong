@@ -1,0 +1,30 @@
+body
+{
+
+}
+.head{
+    width: 100%;
+    font-size: 27px;
+    text-align: left;
+
+}
+.head button{
+    float: right;
+    border-color:black;
+    border-width: 3px;
+    border-style: solid;
+    margin-top: -50px;
+}
+.bgi{
+    width: 100%;
+}
+.modal-dialog{
+    width: 80%;
+
+}
+.modal-content{
+    background-color: aquamarine;
+}
+#canvas{
+    
+}
